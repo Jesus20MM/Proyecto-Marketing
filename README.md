@@ -34,6 +34,10 @@ Se trabajó con un conjunto de datos proporcionado por una institución financie
 - La visualización permitió interpretar los grupos para diseñar campañas de marketing dirigidas.
 - Se seleccionó un número óptimo de clusters mediante el análisis de inercia.
 
+![image](https://github.com/user-attachments/assets/2e890b92-4a08-4c57-a506-8269316af6c0)
+
+
+
 ## Lecciones aprendidas
 - Visualizaciones más complejas para datos de alta dimensión.
 - Aplicación y optimización de modelos de segmentación.
